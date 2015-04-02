@@ -2,7 +2,7 @@
 What Is It?
 ===========
 A script that scrapes data from http://www.acas.rs/
-In particular from the results of this search form: http://www.acas.rs/pretraga-registra/
+In particular from the results of this search form: http://www.acas.rs/acasPublic/imovinaFunkcioneraSearch.htm
 
 How Does It Work?
 =================
