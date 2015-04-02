@@ -1,0 +1,5 @@
+pymongo==2.6.2
+mechanize==0.2.5
+BeautifulSoup==3.2.1
+awesome-slugify==1.6.2
+requests==2.6.0
